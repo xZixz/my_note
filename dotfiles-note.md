@@ -10,3 +10,4 @@ install postgre
 setting up git
 install trans
 install chromimum
+install tree
