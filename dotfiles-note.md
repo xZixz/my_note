@@ -11,3 +11,5 @@ setting up git
 install trans
 install chromimum
 install tree
+install xclip
+install youcompleteme

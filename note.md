@@ -3,3 +3,5 @@
 - Refactor `achievement_from_type` in `AchievementManager` - **Done**
 - Add `AchievementFactory` - **Done**
 - Fix `def` snippet and add macro for adding blank line after `def` block - **Done**
+- Try `bridge` pattern to Achievement models by adding like `AchievementImp` for each achievement
+- Reinvestigate `statically typed languages` and `dynamically typed languages`
