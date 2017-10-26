@@ -6,3 +6,5 @@
 - Try `bridge` pattern to Achievement models by adding like `AchievementImp` for each achievement
 - Reinvestigate `statically typed languages` and `dynamically typed languages`
 - Add a tmuxinator remote to dev machine at EA
+- Find a way to exclude folders while searching using `ag`
+- Read more about ActiveRecord::Concern
